@@ -1,8 +1,0 @@
-*{margin:0;padding:0;box-sizing:border-box;font-family:Arial}
-body{background:#0f0f0f;color:#fff}
-.container{width:90%;max-width:1100px;margin:auto}
-.hero{padding:100px 0;text-align:center;background:linear-gradient(135deg,#6a00ff,#00c3ff)}
-.btn{display:inline-block;background:#000;color:#fff;padding:15px 30px;border-radius:30px;text-decoration:none}
-.section{padding:70px 0;text-align:center}
-.cta{padding:80px 0;background:linear-gradient(135deg,#00c3ff,#6a00ff);text-align:center}
-footer{background:#000;padding:20px;text-align:center;font-size:14px}
